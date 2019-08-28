@@ -1,9 +1,10 @@
 import React from 'react'
 import Project from './Project'
+import './PageContent.css'
 
 function PageContent() {
     return (
-      <div>
+      <div className="PageContent">
       <Project title="Tetris Dots" image="/images/chart2.png" link="#" />
       <Project title="Zombie Server" image="/images/chart2.png" link="#" />
       <Project title="Amazing Colors" image="/images/chart2.png" link="#" />

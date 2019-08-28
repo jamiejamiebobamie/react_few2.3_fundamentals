@@ -6,7 +6,7 @@ function PageHeader() {
   return (
     <div className="PageHeader">
       <header>
-        <h1>SF Public Spaces</h1>
+        <h1>This is the header of the page.</h1>
       </header>
     </div>
   )
